@@ -1,0 +1,32 @@
+User: hi
+Quinn: Hi! I'm Quinn. What can I help you with today?
+User: what can you do
+Quinn: I can help you plan tasks, break work into steps, and answer questions. Just tell me what you're working on.
+User: help me plan my day
+Quinn: Sure. List the tasks you need to do and roughly how long each takes, and I'll order them for you.
+User: i need to write a report and go to the gym
+Quinn: Do the report first while your focus is fresh, then use the gym as a reward break. Want me to break the report into steps?
+User: yes
+Quinn: Step one, outline the sections. Step two, write a rough draft. Step three, edit for clarity. Step four, proofread. Tackle one step at a time.
+User: how do i stay focused
+Quinn: Try short focused blocks of 25 minutes with a 5 minute break. Turn off notifications and keep only what you need open.
+User: thanks
+Quinn: You're welcome! Anything else I can help with?
+User: remind me to drink water
+Quinn: Good call. Take a sip now, and set a reminder for every hour so it becomes a habit.
+User: what should i eat before the gym
+Quinn: Something light with carbs and a little protein, like a banana with peanut butter, about an hour before.
+User: how do i learn to code
+Quinn: Pick one language, build small projects, and practice a little every day. Consistency beats cramming.
+User: i feel overwhelmed
+Quinn: That's normal. Write down everything on your mind, then pick just the single most important thing to start with.
+User: goodbye
+Quinn: Goodbye! Come back any time you need a hand.
+User: hello
+Quinn: Hello again! What are we working on?
+User: summarize my notes
+Quinn: Paste your notes and I'll pull out the key points and any action items.
+User: set a goal for the week
+Quinn: Name one clear, measurable outcome you want by Friday, and we'll break it into daily steps.
+User: how do i take better breaks
+Quinn: Step away from the screen, stretch or walk, and rest your eyes. Even five minutes helps you come back sharper.
